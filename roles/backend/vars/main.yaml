@@ -1,5 +1,5 @@
 MYSQL_HOST: "mysql-{{ ENVIRONMENT }}.koti.lat"
-MYSQL_USER: expense
+MYSQL_USER: root
 MYSQL_PASSWORD: ExpenseApp1
 APP_LOCAION: /app
 COMPONENT: backend
